@@ -5,3 +5,6 @@
 #### Task 3: Develop an user interface to view the results (31.1.2020)
 
 Deadline: 8th February 2020
+
+Bibliography:
+The code for csv parsing has been carried over from: https://github.com/rsylvian/CSVparser
