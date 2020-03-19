@@ -11,10 +11,6 @@
 using namespace std;
 
 map<int, vector<double>> readCSV(ifstream& fin) {
-	// Check if it is not opened successfully
-	if (!fin) {
-		cout << "Error, could not open the file";
-	}
 
 	map<int, vector<double>> accelerationValues;
 	string line;
